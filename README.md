@@ -1,7 +1,7 @@
 ## 29 Aug, 2021
 First day of work. I'm getting things set up. 
-New terminal: iTerm2, p10k.
-New VSCode theme: MacOS Modern.
+New terminal: iTerm2, p10k
+New VSCode theme: MacOS Modern
 New github: thebarefoot
 
 Having worked with IT since 2012, started coding in 2007, it's kind of embarassing that I got to 2021 witout having a proper profile here on github.
