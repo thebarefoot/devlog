@@ -10,3 +10,8 @@ So, this will be a github dedicated on some personal projects that I've long tho
 
 First big one: a Magic, The Gathering, card sorter and database builder.
 Let's see how far this goes!
+
+Today's references:
+https://nanonets.com/blog/ocr-with-tesseract/
+https://github.com/hj3yoo/mtg_card_detector
+https://github.com/EskoSalaka/mtgtools
